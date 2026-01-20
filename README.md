@@ -53,12 +53,10 @@ Todas las funciones están desarrolladas en **JavaScript vanilla**, sin framewor
 
 ## 📚 Proceso de aprendizaje
 
-Este proyecto es el resultado de un recorrido progresivo en programación JavaScript.
+Antes de esta práctica final, el proyecto se apoya en un recorrido progresivo de aprendizaje
+en programación JavaScript.
 
-Antes de la práctica final, se trabajaron fundamentos como algoritmia, funciones, arrays y objetos en distintas prácticas de evaluación continua.  
-Estos ejercicios no se incluyen como código en el repositorio por su carácter introductorio y teórico, pero el proceso está documentado en:
-
-📄 `/docs/proceso-aprendizaje.md`
+👉 [Ver proceso de aprendizaje](./proceso-aprendizaje.md)
 
 ---
 
